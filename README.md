@@ -30,6 +30,7 @@ pursuing a **BSc in Information Technology**.
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&color=brightgreen)
 
 ---
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourGitHubUsername&theme=react-dark)
 
 ### 📫 Let's Connect
 - 📧 pasindunuwan.gr@gmail.com
